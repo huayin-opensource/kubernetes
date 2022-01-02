@@ -1,0 +1,7 @@
+resources:
+  - redis-leader-service.yaml
+  - redis-leader-deployment.yaml
+  - redis-follower-service.yaml
+  - redis-follower-deployment.yaml
+  - frontend-service.yaml
+  - frontend-deployment.yaml
